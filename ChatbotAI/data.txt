@@ -1,0 +1,100 @@
+Xin chào
+Chào bạn , bạn có câu hỏi gì ?
+Chào 
+Chào bạn , bạn có câu hỏi gì ?
+Hello
+Chào bạn , bạn có câu hỏi gì ?
+Hi 
+Chào bạn , bạn có câu hỏi gì ?
+Bạn khỏe không ?
+Tôi khỏe , cảm ơn bạn !
+Khỏe không 
+Tôi khỏe , cảm ơn bạn !
+Tôi muốn hỏi về vé xe 
+Dịch vụ chúng tôi có 3 loại vé chính là : vé VIP , vé ghế ngồi và vé giường nằm
+Vé xe có mấy loại ?
+Dịch vụ chúng tôi có 3 loại vé chính là : vé VIP , vé ghế ngồi và vé giường nằm
+Vé xe có mấy loại 
+Dịch vụ chúng tôi có 3 loại vé chính là : vé VIP , vé ghế ngồi và vé giường nằm
+Mấy loại 
+Dịch vụ chúng tôi có 3 loại vé chính là : vé VIP , vé ghế ngồi và vé giường nằm
+Vé xe
+Dịch vụ chúng tôi có 3 loại vé chính là : vé VIP , vé ghế ngồi và vé giường nằm
+Giá vé từng loại ?
+Vé vip có giá 1.000.000 vnd , Vé ghế ngồi có giá 300.000 vnd , Vé giường nằm có giá 600.000 vnd
+Giá vé từng loại 
+Vé vip có giá 1.000.000 vnd , Vé ghế ngồi có giá 300.000 vnd , Vé giường nằm có giá 600.000 vnd
+Giá vé 
+Vé vip có giá 1.000.000 vnd , Vé ghế ngồi có giá 300.000 vnd , Vé giường nằm có giá 600.000 vnd
+Tôi phải đặt vé ở đâu ?
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Tôi phải đặt vé ở đâu 
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Đặt vé ở đâu
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Ở đâu ?
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Ở đâu
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Đặt vé ở đâu ?
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Đặt vé
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Đặt vé ?
+Bạn có thể đặt trực tiếp ở bến xe hoặc online tại trang web này Car.com
+Cảm ơn bạn đã tư vấn
+Không có gì , rất vui được phục vụ bạn !
+Cảm ơn bạn 
+Không có gì , rất vui được phục vụ bạn !
+Cảm ơn bạn đã tư vấn !
+Không có gì , rất vui được phục vụ bạn !
+Cảm ơn bạn !
+Không có gì , rất vui được phục vụ bạn !
+Cảm ơn 
+Không có gì , rất vui được phục vụ bạn !
+Cảm ơn !
+Không có gì , rất vui được phục vụ bạn !
+Hôm nay có chuyến đi không ?
+Có , hôm nay có 3 chuyến lúc 8h , 14h , 20h nhé !
+Hôm nay có lịch trình đi không ?
+Có , hôm nay có 3 chuyến lúc 8h , 14h , 20h nhé !
+Hôm nay có chuyến không ?
+Có , hôm nay có 3 chuyến lúc 8h , 14h , 20h nhé !
+Có vé cho hôm nay không ?
+Mỗi ngày đều sẽ có 3 giờ khởi hành là 8h , 14h và 20h nhé !
+Ngày mai có chuyến đi không ?
+Mỗi ngày đều sẽ có 3 giờ khởi hành là 8h , 14h và 20h nhé !
+Ngày mốt có chuyến đi không ?
+Mỗi ngày đều sẽ có 3 giờ khởi hành là 8h , 14h và 20h nhé !
+Có giảm giá hay khuyến mãi không ?
+Giá vé không đổi cho mọi ngày !
+Có khuyến mãi không ?
+Giá vé không đổi cho mọi ngày !
+Có giảm giá không ?
+Giá vé không đổi cho mọi ngày !
+Hủy vé phải làm thế nào ?
+Hãy liên hệ trực tiếp nhân viên tại bến xe hoặc ấn hủy trên website ! 
+Hủy vé ?
+Hãy liên hệ trực tiếp nhân viên tại bến xe hoặc ấn hủy trên website !
+Hủy vé phải làm sao ?
+Hãy liên hệ trực tiếp nhân viên tại bến xe hoặc ấn hủy trên website !
+Trên xe có Wifi không ?
+Có 
+Trên xe có máy lạnh không ?
+Vé ghế ngồi sẽ không có máy lạnh !
+Trên xe có nước uống không ?
+Có 
+Có Wifi không ?
+Có 
+Phương thức thanh toán thế nào ?
+Bạn có thể thanh toán trực tiếp hoặc thẻ atm !
+Phương thức thanh toán
+Bạn có thể thanh toán trực tiếp hoặc thẻ atm !
+Có thanh toán trực tuyến không ?
+Bạn có thể thanh toán trực tiếp hoặc thẻ atm !
+Khối lượng hành lí tối đa là bao nhiêu ?
+Bạn có thể đem theo hành lí từ 0-10kg 
+Khối lượng đem theo tối đa là bao nhiêu ?
+Bạn có thể đem theo hành lí từ 0-10kg 
+Khối lượng hành lí 
+Bạn có thể đem từ 0 đến 10 kg

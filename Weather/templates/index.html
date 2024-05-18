@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+</head>
+<body>
+    <h1>Weather Information</h1>
+    <form action="/" method="post">
+        <label for="city">Enter City Name or City ID:</label>
+        <input type="text" id="city" name="city" placeholder="Enter city name or city ID...">
+        <button type="submit">Get Weather</button>
+    </form>
+    <h2>Weather Data:</h2>
+    <p>Country Code: {{ data.country_code }}</p>
+    <p>Coordinates: {{ data.coordinate }}</p>
+    <p>Temperature: {{ data.temp }}</p>
+    <p>Pressure: {{ data.pressure }}</p>
+    <p>Humidity: {{ data.humidity }}</p>
+</body>
+</html>

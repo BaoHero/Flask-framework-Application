@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChatBot</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1 id="title-top"> Tư vấn đặt vé xe cho khách hàng </h1>
+        <div id="chat-box">
+            <div id="chat-log">Dịch vụ xe du lịch Thành phố Hồ Chí Minh - Đà Lạt xin kính chào !</div>
+            <input type="text" id="user-input" placeholder="Mời bạn nhập câu hỏi...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+           $("#user-input").keyup(function(event) {
+              if (event.keyCode == 13) { // Kiểm tra nút Enter
+                sendMessage(); // Gọi hàm sendMessage nếu người dùng nhấn phím Enter
+              }
+            });
+        });
+        function sendMessage() {
+            var user_input = $("#user-input").val();
+            $("#chat-log").append("<div class='message-container' id='user-message-container'><p class='message user-message'>" + user_input + "</p></div>");
+            $("#user-input").val("");
+
+            $.ajax({
+                url: "/get",
+                data: {msg: user_input},
+                success: function(data) {
+                    $("#chat-log").append("<div class='message-container' id='bot-message-container'><p class='message bot-message'>" + data + "</p></div>");
+                    $('#chat-log').scrollTop($('#chat-log')[0].scrollHeight);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

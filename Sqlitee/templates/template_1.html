@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Book List</title>
+  </head>
+  <body>
+    <h1>Book List</h1>
+    <form method="post">
+      <label for="title">Title:</label>
+      <input type="text" id="title" name="title" required />
+      <label for="author">Author:</label>
+      <input type="text" id="author" name="author" required />
+      <input type="hidden" id="id" name="id" />
+      <button type="submit" name="add">Add Book</button>
+    </form>
+    <ul>
+      {% for book in books %}
+      <li>
+        {{ book.title }} by {{ book.author }}
+        <form method="post" style="display: inline;">
+          <input type="hidden" name="id" value="{{ book.id }}" />
+          <input type="text" name="title" value="{{ book.title }}" required />
+          <input type="text" name="author" value="{{ book.author }}" required />
+          <button type="submit" name="update">Update</button>
+          <button type="submit" name="delete">Delete</button>
+        </form>
+      </li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>
