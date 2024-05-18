@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+   <head>
+      <title>Flask Message flashing</title>
+      <link rel="stylesheet" href="{{ url_for('static', filename='style_1.css') }}">
+   </head>
+   <body>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+            <div class="alert alert-{{ category }}">
+                {{ message }}
+            </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+		
+      <h1>Flask Message Flashing Example</h1>
+      <p>Do you want to <a href = "{{ url_for('login') }}">
+         <b>log in?</b></a></p>
+   </body>
+</html>
